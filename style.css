@@ -1,3 +1,27 @@
-body {
 
+body{
+  background-color:lightblue;
+  
+}
+
+h1{ 
+ color:beige;
+ font-size: 50px;
+ font-style: italic;
+ font-weight: bold;
+ font-variant: small-caps;
+ text-decoration: overline underline white;
+ word-spacing: 20px;
+ text-shadow: 2px 2px 3px black;
+}
+
+h1:hover{
+  font-size: 100px;
+  text-shadow: 2px 2px 3px beige;
+}
+
+img {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
+}
 }
