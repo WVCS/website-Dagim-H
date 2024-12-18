@@ -18,6 +18,7 @@ h1{
 h1:hover{
   font-size: 100px;
   text-shadow: 2px 2px 3px beige;
+  color:black;
 }
 
 img {
